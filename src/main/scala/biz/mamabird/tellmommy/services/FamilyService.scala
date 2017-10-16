@@ -1,4 +1,4 @@
-//Unpublished Work (c) 2017 Deere & Company
+//Unpublished Work (c) 2017 Mambird, LLC
 package biz.mamabird.tellmommy.services
 
 import java.util.UUID
